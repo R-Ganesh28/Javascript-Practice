@@ -12,3 +12,9 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Run our code using the console.
   - Syntax
 
+### 📅 Day 2 – Numbers and Math
+- What I Learned:
+  - Addition, Subtraction, Multiplication, Division, Brackets.
+  - operator precedence.
+  - Round off numbers using Math.round()
+
