@@ -14,7 +14,8 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 ### 📅 Day 2 – Numbers and Math
 - What I Learned:
-  - Addition, Subtraction, Multiplication, Division, Brackets.
-  - operator precedence.
+  - Addition, Subtraction, Multiplication, Division.
+  - operator precedence and brackets.
   - Round off numbers using Math.round()
+  - Calculations using float can be inaccurate.
 
