@@ -18,4 +18,5 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - operator precedence and brackets.
   - Round off numbers using Math.round()
   - Calculations using float can be inaccurate.
+  - Conversion of Celsius and Fahrenheit.
 
