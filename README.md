@@ -36,6 +36,6 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Naming conventions and best practices: camelCase, PascalCase.
   - 3 ways to create a variables: let, const, var.
 - What I Practiced:
-  - Basic Variables problems
+  - Basic Variables problems.
   - Add to Cart practice like cart quantity.
   - Simple Calculator.
