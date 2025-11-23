@@ -1,4 +1,4 @@
-# Javascript-Practice
+# JavaScript-Practice
 A personal log of my daily JavaScript coding and concepts I master along the way.
 
 
