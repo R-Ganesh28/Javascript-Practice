@@ -1,0 +1,29 @@
+<!--At a restaurant, you order 1 coffee ($5), 2 bagels ($3 each), and 1 soup ($9). -->
+<!DOCTYPE html>
+<html>
+    <head><title>Variables</title></head>
+    <body>
+        <script>
+
+// Calculate the cost and save it in a variable called 'cost'.
+            let coffee = 5;
+            let bagels = 3;
+            let soup = 9;
+            let cost = coffee + (2 * bagels) + soup;
+
+// Continuing from above, display `Cost of food: $${cost}` in the console.
+            console.log(`Cost of the Food: $${cost}`);
+
+// Let's ssay the restaurant charges a 10% tax. Using the cost variable from 1st, Calculate the tax and save the result in a variable.
+            let tax = cost * 0.1;
+
+// Continuing from above, dissplay 'Tax (10%): $${tax}' in the console.
+            console.log(`Tax (10%): $${tax}`);
+
+// Continuing from above, calculate the total (cost + tax), save it in a variable called 'totalCost', and display the message 'total cost: $${totalCost}' in the console.
+            let totalCost = cost + tax;
+            console.log(`Total cost: $${totalCost}`);
+
+        </script>
+    </body>
+</html>
