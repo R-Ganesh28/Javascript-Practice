@@ -28,3 +28,10 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Escape characters: \' , \n.
   - Interpolation, Multi-line strings.
 
+### 📅 Day 04 – Variables
+- What I Learned:
+  - variable = a way to save values.
+  - Re-assign a value.
+  - Shortcut for re-assignng variable. (+=)
+  - Naming conventions and best practices: camelCase, PascalCase.
+  - 3 ways to create a variables: let, const, var.
