@@ -48,3 +48,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Algorithm and created Rock Paper Scissors.
   - Truthy and Falsy values.
   - Shortcut for If statements[ Ternary ?, Guard &&, default || ]
+- What I practiced:
+  - Add to Cart practice like cart quantity with limit for 10 items and minimum 0 items.
+  - Created COIN-FLIP GAME.
+  - Created ROCK PAPER SCISSORS GAME.
