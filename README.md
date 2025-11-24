@@ -39,3 +39,12 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Basic Variables problems.
   - Add to Cart practice like cart quantity.
   - Simple Calculator.
+
+### 📅 Day 05 – Booleans and If statements
+- What I Learned:
+  - Boolean values.[ true, false ]
+  - If statements
+  - Comparison Operators[ <, >, <=, >=, ===, !== ] and Logical Operators[ &&, ||, ! ]
+  - Algorithm and created Rock Paper Scissors.
+  - Truthy and Falsy values.
+  - Shortcut for If statements[ Ternary ?, Guard &&, default || ]
