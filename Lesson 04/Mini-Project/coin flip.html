@@ -1,0 +1,37 @@
+<!-- Create a coin-flip game -->
+<!-- Generate a random number with Math.random(). Save it in a variable. -->
+<!-- Open inspect>console to see the output -->
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            Coin Flip Game - Booleans and If statements
+        </title>
+    </head>
+    <body>
+        <script>
+
+            const randomNumber = Math.random();
+            let result;
+        // Create an if statement and check
+            if (randomNumber < 0.5) {
+                result = 'Head';
+            } else {
+                result = 'Tail';
+            }
+        // Guess and save your guess ('Head' or 'Tail').
+            const guess = 'Tail';
+            if (guess === result) {
+                console.log('You win.');
+            } else {
+                console.log('You lose.');
+            }
+
+// using ternary operator for the same above project.
+            const RandomNumber = Math.random();
+            const result1 = RandomNumber < 0.5 ? 'Head' : 'Tail';
+            const result2 = guess === result1 ? 'you win..' : 'you lose..';
+            console.log(result2);
+        </script>
+    </body>
+</html>

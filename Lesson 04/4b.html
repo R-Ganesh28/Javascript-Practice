@@ -1,0 +1,33 @@
+<!-- Imagine an amusement park that has a discount for children(6 years and younger) or seniors(65 years and older) -->
+ <!-- Create a variable 'age' and save a person's age inside.-->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            Age Discount - Booleans and If statements
+        </title>
+    </head>
+    <body>
+        <script>
+            const age = 66;
+            if ((age >= 0 && age <= 6) || age >= 65) {
+                console.log('Discount');
+            } else {
+                console.log('No Discount');
+            }
+
+/*
+   Continuing above, let's say discount is only available if it is not a holiday.
+   Create a variable: const isHoliday = true;
+   Update the code so thatin order to get a discount, people must meet the age requirement and it is also not a holiday.
+*/
+            const isHoliday = true;
+            if ((age <= 6 || age >= 65) && !isHoliday) {
+                console.log('Discount');
+            } else {
+                console.log('No Discount');
+            }
+        </script>
+    </body>
+</html>

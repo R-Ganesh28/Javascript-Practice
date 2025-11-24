@@ -1,0 +1,40 @@
+<!-- Create a variable called 'hour' and save the current hour of the day
+ (use 24-hour format and save it as a number between 0 and 23). 
+ if hour is 6 to 12, display good morning in the console. 
+ if hour is 13 to 17, display good afternoon in the console. 
+ Otherwise, display good night in the console. -->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            Hour - Booleans and If statements
+        </title>
+    </head>
+    <body>
+        <script>
+
+            const hour = 16;
+            if (hour >= 6 && hour <= 12) {
+                console.log('Good Morning!');
+            } else if (hour >= 13 && hour <= 17) {
+                console.log('Good Afternoon!');
+            } else {
+                console.log('Good Night!');
+            }
+
+// Continuing above, create a variable called name and save your name inside.
+// Update the if statement to display your name in each message.
+            const name = 'Ganesh';
+            if (hour >= 6 && hour <= 12) {
+                console.log(`Good Morning ${name}!`);
+            } else if (hour >= 13 && hour <= 17) {
+                console.log(`Good Afternoon ${name}!`);
+            } else {
+                console.log(`Good Night ${name}!`);
+            }
+          
+
+        </script>
+    </body>
+</html>
