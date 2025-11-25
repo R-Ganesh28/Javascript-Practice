@@ -52,3 +52,10 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Add to Cart practice like cart quantity with limit for 10 items and minimum 0 items.
   - Created COIN-FLIP GAME.
   - Created ROCK PAPER SCISSORS GAME.
+
+### 📅 Day 06 – Functions
+- What I Learned:
+  - Functions = can reuse the code.
+  - Return = get a value out of a function.
+  - Parameter = Passing a value into the functions.
+  - Improved the code for ROCK PAPER SCISSORS GAME
