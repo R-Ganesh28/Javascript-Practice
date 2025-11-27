@@ -67,4 +67,9 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Improved Calculator using functions.
   - Improved ROCK PAPER SCISSORS GAME using functions.
 
-
+### 📅 Day 07 – Objects
+- What I Learned:
+  - Objects = group related values together.
+  - Built-in objects [ JSON, localStorage ].
+  - More details [ null, autoBoxing, references ].
+  - Shortcuts [ destructuring, shorthand property,shorthand method ]
