@@ -73,3 +73,10 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Built-in objects [ JSON, localStorage ].
   - More details [ null, autoBoxing, references ].
   - Shortcuts [ destructuring, shorthand property,shorthand method ]
+- What I Practiced:
+  - Created a objects and compared them with other objects.
+  - Practiced objects using toUpperCase, toLowerCase, repeat(number).
+  - Improved Calculator using objects and local storage. [ for SAVE ]
+  - Improved ROCK PAPER SCISSORS GAME using objects and local storage.[ for SCORE, RESET ]
+  - Improved COIN FLIP GAME using objects and local storage.[ for score, reset ]
+
