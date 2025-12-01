@@ -80,3 +80,5 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Improved ROCK PAPER SCISSORS GAME using objects and local storage.[ for SCORE, RESET ]
   - Improved COIN FLIP GAME using objects and local storage.[ for score, reset ]
 
+### 📅 Day 08 – Document Object Model [ DOM ]
+- What I Learned:
