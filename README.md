@@ -7,7 +7,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 ### 📅 Day 01 – Javascript Basics
 - What I Learned:
-  - Javascript is giving instructions to a computer.[ Chrome ]
+  - Javascript is giving instructions to a computer.[ Browsers ]
   - Wrote JavaScript code.
   - Run our code using the console.
   - Syntax
