@@ -58,7 +58,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Functions = can reuse the code.
   - Return = get a value out of a function.
   - Parameter = Passing a value into the functions.
-  - Improved the code for ROCK PAPER SCISSORS GAME
+  - Improved the code for ROCK PAPER SCISSORS GAME.
 - What I Practiced:
   - Created a function and prcticed with default parameters.
   - created a conversion of Temperature [ Celsius, Fahrenheit ]
