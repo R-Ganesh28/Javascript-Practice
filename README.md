@@ -3,7 +3,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 
 
-## ✅ Daily Progress
+## ✅ Daily Progress;
 
 ### 📅 Day 01 – Javascript Basics
 - What I Learned:
