@@ -10,7 +10,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Javascript is giving instructions to a computer[ Browsers ]
   - Wrote JavaScript code.
   - Run our code using the console.
-  - Syntax
+  - Syntax.
 
 ### 📅 Day 02 – Numbers and Math
 - What I Learned:
