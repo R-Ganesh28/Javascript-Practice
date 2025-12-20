@@ -22,7 +22,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 ### 📅 Day 03 – String
 - What I Learned:
-  - String = text
+  - String = text.
   - Using string and numbers together.[ concatenation ]
   - Three ways to create a string.[ '...' , "...", `...`(template strings) ]
   - Escape characters: \' , \n.
