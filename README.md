@@ -62,7 +62,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 - What I Practiced:
   - Created a function and prcticed with default parameters.
   - created a conversion of Temperature [ Celsius, Fahrenheit ]
-  - created a conversion of Length [ km, miles, ft ]
+  - created a conversion of Length. [ km, miles, ft ]
   - Add to Cart practice like cart quantity created function and reduced some code.
   - Improved Calculator using functions.
   - Improved ROCK PAPER SCISSORS GAME using functions.
