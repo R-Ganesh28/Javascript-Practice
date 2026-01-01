@@ -86,3 +86,8 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - .innerHTML(...)
   - keydown = "..."
   - More details about strings + window object.
+- What I Practiced:
+  - Improved ROCK PAPER SCISSORS GAME using Result and score below button.
+  - Created YouTube Subscribe Button which changes to 'subscribed' when clicked and vice versa.
+  - Created a Shipping Calculation using DOM (Document Object Model)
+
