@@ -82,3 +82,7 @@ A personal log of my daily JavaScript coding and concepts I master along the way
 
 ### 📅 Day 08 – Document Object Model [ DOM ]
 - What I Learned:
+  - document.querySelector(...)
+  - .innerHTML(...)
+  - keydown = "..."
+  - More details about strings + window object.
