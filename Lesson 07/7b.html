@@ -1,0 +1,25 @@
+<!-- Craete a Shipping Calculation using DOM (Document Object Model) -->
+
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+        <title> Amazon Shipping Calculator - DOM (Document Object Model) </title>
+    </head>
+
+    <body>
+        <p>Amazon Shipping Calculator</p>
+
+        <p>Orders under $40 = +$10 shipping.</p>
+
+        <p>Orders over $40 = FREE shipping.</p>
+
+        <input class="js-cost-input" placeholder="Cost of order" onkeydown="handleCostKeydown(event)">
+
+        <button onclick="calculateTotal()" class="js-cost-button">Calculate</button>
+
+        <p class="js-total-cost"></p>
+    </body>
+
+    <script src="7b.js"></script>
+</html>
