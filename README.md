@@ -90,4 +90,8 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Improved ROCK PAPER SCISSORS GAME using Result and score below button.
   - Created YouTube Subscribe Button which changes to 'subscribed' when clicked and vice versa.
   - Created a Shipping Calculation using DOM (Document Object Model)
+  - Created and practiced a text box with submit button to display.
+  - Created and practiced a text box with submit button which can also get displayed by clicking Enter button.
+  - Created and practiced a Onkeyup = "..."
+
 
