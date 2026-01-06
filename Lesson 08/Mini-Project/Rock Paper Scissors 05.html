@@ -1,0 +1,28 @@
+<!-- Create a Simple Basic Rock Paper Scissors interactive using DOM (Document Object Manipulation) and add CSS file to improve UX -->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Rock Paper Scissors 05 - CSS</title>
+        <link rel="stylesheet" href="styles/Rock Paper Scissors 05.css">
+    </head>
+    <body>
+        <h1>Rock Paper Scissors</h1>
+
+        <button onclick="playGame('Rock');" class="move-button"><img class="img-icon" src="images/rock-emoji.png" alt="Rock"></button>
+
+        <button onclick="playGame('Paper');" class="move-button"> <img class="img-icon" src="images/paper-emoji.png" alt="Paper"></button>
+
+        <button onclick="playGame('Scissors');" class="move-button"> <img class="img-icon" src="images/scissors-emoji.png" alt="Scissors"></button>
+
+        <p class="js-result result"></p>
+
+        <p class="js-moves"></p>
+
+        <p class="js-score score"></p>
+
+        <button onclick="resetScoreElement();" class="reset-score-button">Reset Score</button>
+
+        <script src="scripts/Rock Paper Scissors 05.js"></script>
+    </body>
+</html>
