@@ -93,5 +93,12 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - Created and practiced a text box with submit button to display.
   - Created and practiced a text box with submit button which can also get displayed by clicking Enter button.
   - Created and practiced a Onkeyup = "..."
+### 📅 Day 09 – HTML CSS and JavaScript Together
+- What I Learned:
+  - Reviewed CSS and added CSS to the projects.
+  - .classList (add, remove)
+  - Finished Rock Paper Scissors
+  - Organize JavaScript and CSS code into separate file.
+
 
 
