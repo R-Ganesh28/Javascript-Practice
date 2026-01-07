@@ -1,0 +1,16 @@
+<!-- Create a button Test and use classList and contains to check there is any class in button -->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> Button Test - JS</title>
+    </head>
+    <body>
+        <button onclick="button()" class="js-button">Test</button>
+        <script>
+            function button() {
+                console.log(document.querySelector('button').classList.contains('js-button'));
+            }
+        </script>
+    </body>
+</html>
