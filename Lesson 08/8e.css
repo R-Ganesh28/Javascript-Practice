@@ -1,0 +1,17 @@
+.button-1,
+.button-2,
+.button-3 {
+    color: black;
+    background-color: lightgray;
+    padding: 10px 14px 10px 14px;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.is-toggled {
+    color: white;
+    background-color: black;
+}
