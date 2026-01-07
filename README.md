@@ -99,6 +99,15 @@ A personal log of my daily JavaScript coding and concepts I master along the way
   - .classList (add, remove)
   - Finished Rock Paper Scissors
   - Organize JavaScript and CSS code into separate file.
+- What I Practiced:
+  - YouTube Subscribe Button with CSS file colored it black to white when clicked.
+  - Shipping Calculation using DOM (Document Object Model) added CSS file and made some changes in JS.
+  - Created a classList.contains (....) to verify the class is there are not.
+  - Created a Button ON/OFF with HTML+CSS+JS.
+  - Created 3 Button toggle colors with HTML+CSS+JS.
+  - Created 3 Button toggle colors one at a time with HTML, CSS, JS.
+  - Improved the calculator with HTML+CSS+JS. 
+
 
 
 
